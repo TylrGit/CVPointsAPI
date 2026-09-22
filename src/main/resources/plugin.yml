@@ -1,0 +1,9 @@
+name: CVPointsAPI
+version: '1.21.8'
+main: org.cubeville.CVPointsAPI.CVPointsAPI
+api-version: '1.21'
+authors: [ Sonicar ]
+depend: [ Vault, BetonQuest ]
+softdepend: [ LuckPerms ]
+description: REST API for getting & setting BQ point values & permission groups per UUID
+load: POSTWORLD

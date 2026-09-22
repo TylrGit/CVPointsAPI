@@ -1,0 +1,4 @@
+api:
+  port: 8080
+  threads: 4
+  private-key: "YOUR_SECURE_PRIVATE_KEY_HERE"
