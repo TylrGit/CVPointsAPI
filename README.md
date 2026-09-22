@@ -28,7 +28,7 @@ A Minecraft Spigot/Paper plugin that provides a REST API for managing player per
 
 ### Features:
 
-- Query `/status` with `POST' requests for players' permission & token balances
+- Query `/status` with `POST` requests for players' permission & token balances
 - Manage permission & token balances via `POST` requests to `/status`
 
 
