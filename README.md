@@ -17,7 +17,7 @@ A Minecraft Spigot/Paper plugin that provides a REST API for managing player per
 [INFO]: [CVPointsAPI] Loading server plugin CVPointsAPI v1.21.8
 [INFO]: [CVPointsAPI] Enabling CVPointsAPI v1.21.8
 [INFO]: [CVPointsAPI] REST server started on port 8080
-[INFO]: [CVPointsAPI] CVTokenAPI enabled successfully!
+[INFO]: [CVPointsAPI] CVPointsAPI enabled successfully!
 ```
 
 ## 🛠️Tech Stack
