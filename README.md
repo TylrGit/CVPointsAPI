@@ -1,4 +1,3 @@
-[shields.io](https://shields.io/)
 <p align="center">
   <img alt="Language: Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Platform: Spigot/Paper" src="https://img.shields.io/badge/Spigot%2FPaper-F7931E?style=for-the-badge&logo=minecraft&logoColor=white" />
